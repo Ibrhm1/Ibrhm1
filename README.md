@@ -1,4 +1,4 @@
-<h2 align="left">Hello World👋! <br>My name is Iib Ibrahim and I am a computer science student, from Indonesia</h2>
+<!-- <h align="left">Hello World👋! <br>My name is Iib Ibrahim and I am a computer science student, from Indonesia</h>
 
 ###
 
@@ -50,4 +50,4 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Ibrhm1/Ibrhm1/output/pacman-contribution-graph.svg">
 </picture>
 
-###
+### -->
