@@ -13,11 +13,13 @@
 ![](https://github-readme-stats.vercel.app/api?username=Ibrhm1&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ibrhm1&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ibrhm1/Ibrhm1/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ibrhm1/Ibrhm1/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Ibrhm1/Ibrhm1/output/pacman-contribution-graph.svg">
+</picture>
 
 [![](https://visitcount.itsvg.in/api?id=Ibrhm1&icon=8&color=0)](https://visitcount.itsvg.in)
 
